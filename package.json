@@ -1,0 +1,23 @@
+{
+  "name": "suspens",
+  "version": "1.0.0",
+  "description": "This is a solution to the [ spens. landing page form challenge on Frontend Mentor]",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "build": "tailwindcss -i ./src/input.css -o ./css/style.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mh-miyad/suspens-portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mh-miyad/suspens-portfolio/issues"
+  },
+  "homepage": "https://github.com/mh-miyad/suspens-portfolio#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.2.4"
+  }
+}
